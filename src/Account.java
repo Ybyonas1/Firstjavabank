@@ -63,7 +63,8 @@ public class Account {
 
         do {
             System.out.println();
-            System.out.println("Enter an option: ");
+            System.out.println("Enter an option: 'A', 'B', 'C', 'D', 'E', or 'F'");
+
             char option1 = scanner.next().charAt(0);
             option = Character.toUpperCase(option1);
 
