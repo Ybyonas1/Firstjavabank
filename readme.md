@@ -10,7 +10,7 @@ No installation process required
 
 Allows the user to navigate through their bank account. Also provided me, the coder, with hands-on practice examples of how to implement (OOP) Object Oriented Programing into a project.
 
-#]# Documentation
+## Documentation
 
 n/a
 
